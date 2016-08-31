@@ -1,0 +1,6 @@
+{:database
+ {:host "neon"
+  :sid #profile {:default "IFSL"
+                 :dev "IFST"}
+  :user #env DATABASE_USER
+  :password #env DATABASE_PASSWORD}}

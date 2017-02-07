@@ -184,7 +184,8 @@
   forecast entries are stored."
   {"SDRM" "S004"
    "SDPU" "S005"
-   "RTST" "S003"})
+   "RTST" "S003"
+   "QBT"  "S004"})
 
 (defn forecast-map
   "Builds a nested project forecast map from the given collection of
